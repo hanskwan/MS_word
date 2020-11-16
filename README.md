@@ -11,4 +11,4 @@ Read python program
 2. build word document layout
 3. add in headings, page break and image
 4. assign data to the correct paragraph
-5. export word
+5. export word file
